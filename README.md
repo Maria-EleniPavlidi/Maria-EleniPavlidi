@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On: Linear layouts of graphs<br>🌱 Learning: Python & NetworkX for graph algorithms<br>💡 Fun Fact: Have a javastic day! ☕😄
+🔭 Currently Working On: Linear layouts of graphs<br>🌱 Learning: Python NetworkX & Matplotlib for graph algorithms<br>💡 Fun Fact: Have a javastic day! ☕😄
 
 
 ## 🌐 Socials:
